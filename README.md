@@ -1,9 +1,7 @@
 
 # Hello, my name is Roberto Londoño 👋
 ### Web developer
-
-
-
+![https://Roberto-GH.com](https://raw.githubusercontent.com/Roberto-GH/Roberto-GH/main/webDeveloper.png)
 ## Skills:
 [![JAVA](https://img.shields.io/badge/JAVA-E34F26?style=for-the-badge&logo=java&logoColor=blue&labelColor=ffffff)]()&emsp;&emsp;&emsp;&emsp;
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010)]()&emsp;&emsp;&emsp;&emsp;
@@ -23,26 +21,7 @@
 And more...
 
 ## Find me at: 
-* Twitter: 
 * Linkedin: https://www.linkedin.com/in/roberto-londoño/
-* WebSite: 
 
 ## My stats are: 
 ![Stats](https://github-readme-stats.vercel.app/api?username=Roberto-GH)
-
-
-
-<!--
-**Roberto-GH/Roberto-GH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub pr.ofile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
