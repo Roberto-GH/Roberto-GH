@@ -1,11 +1,4 @@
 
-<table style="width:20%">
-  <tr>
-    <td>	
-  		<img src="https://raw.githubusercontent.com/Roberto-GH/Roberto-GH/main/readmephoto.png" width="200" height="200"/>	
-	  </td>   
-  </tr> 
-</table>
 
 # Hello, my name is Roberto Londoño 👋
 
